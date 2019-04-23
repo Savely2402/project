@@ -36,6 +36,3 @@ if(appData.moneyPerDay < 100) {
 } else {
     console.log("Произошла ошибка");
 }
-
-
- 
